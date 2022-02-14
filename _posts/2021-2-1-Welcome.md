@@ -2,4 +2,10 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+I fear the antichrist.
+---
+layout: post
+title: Beware
+---
+testaroonie
+

@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a second year chemistry student at Cal Poly.
 
-### More Information
+### Other Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+I also enjoy vintage auto restoration and maintenence, and I'm currently in the process of restoring a '74 VW Beetle as well as a '51 Chevy Deluxe. I'm an avid backpacker, and enjoy playing the banjo.
 
 ### Contact me
 

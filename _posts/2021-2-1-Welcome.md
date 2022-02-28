@@ -1,7 +1,5 @@
 ---
 layout: post
-title: Welcome!
+title: Welcome to my page!
 ---
-Hello does this work?
-
-
+Please enjoy this carefully crafted webpage.
